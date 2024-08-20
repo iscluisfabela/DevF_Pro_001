@@ -9,16 +9,20 @@ img{
 }
 
 header{
-    background-color: rgb(221, 187, 253);
+    background-color: rgb(145, 255, 0);
+    margin:1px; /*Espacio exterior*/
+    text-align: center;
 }
 
 nav{
-    background-color: pink;
+    background-color: rgb(255, 53, 87);
+    text-align: center; /*Alienar al centro texto*/
+    border:3px black ridge; /*Crea un borde*/
 }
 
 #¿Qué-es-el-Squad-2{
     background-color: rgb(249, 170, 170);
-    margin:30px; /*Espacio exterior*/
+
 }
 
 #Trabajos-hechos{
@@ -28,10 +32,9 @@ nav{
 
 #Modulos-dentro-del-curso{
     background-color: rgb(255, 232, 178);
-    border: 3px red; /*Borde*/
+    border:5px black groove;
 }
 
 #Integrantes-del-Squad{
     background-color: rgb(255, 178, 193);
-    text-align: center; /*Alienar al centro texto*/
 }
