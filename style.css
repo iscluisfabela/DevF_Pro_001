@@ -1,0 +1,37 @@
+/*Quitando margin y padding por defecto*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 360px;
+}
+
+header{
+    background-color: rgb(221, 187, 253);
+}
+
+nav{
+    background-color: pink;
+}
+
+#¿Qué-es-el-Squad-2{
+    background-color: rgb(249, 170, 170);
+    margin:30px; /*Espacio exterior*/
+}
+
+#Trabajos-hechos{
+    background-color: rgb(178, 178, 255);
+    padding:10px; /*Espacio interior*/
+}
+
+#Modulos-dentro-del-curso{
+    background-color: rgb(255, 232, 178);
+    border: 3px red; /*Borde*/
+}
+
+#Integrantes-del-Squad{
+    background-color: rgb(255, 178, 193);
+    text-align: center; /*Alienar al centro texto*/
+}
