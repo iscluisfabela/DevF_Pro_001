@@ -17,7 +17,7 @@ header{
 nav{
     background-color: rgb(255, 53, 87);
     text-align: center; /*Alienar al centro texto*/
-    border:3px black ridge; /*Crea un borde*/
+    border:5px black ridge; /*Crea un borde*/
 }
 
 #¿Qué-es-el-Squad-2{
@@ -37,4 +37,13 @@ nav{
 
 #Integrantes-del-Squad{
     background-color: rgb(255, 178, 193);
+}
+
+#Unete-a-nuestro-viaje-de-aprender-frontend{
+    border: 5px black groove;
+}
+#Mira-este-video{
+    text-align: center;
+    background-color: brown;
+    border: 5px black dashed;
 }
